@@ -98,10 +98,6 @@ dartz
 2.12
 file:///home/wallece/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/dartz-0.10.1/
 file:///home/wallece/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/dartz-0.10.1/lib/
-data_connection_checker
-2.2
-file:///home/wallece/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/data_connection_checker-0.3.4/
-file:///home/wallece/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/data_connection_checker-0.3.4/lib/
 equatable
 2.12
 file:///home/wallece/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/equatable-2.0.5/
@@ -158,6 +154,10 @@ http_parser
 2.12
 file:///home/wallece/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.1/
 file:///home/wallece/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.1/lib/
+internet_connection_checker
+2.18
+file:///home/wallece/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/internet_connection_checker-1.0.0+1/
+file:///home/wallece/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/internet_connection_checker-1.0.0+1/lib/
 io
 2.12
 file:///home/wallece/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/io-1.0.3/

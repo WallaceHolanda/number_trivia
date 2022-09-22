@@ -146,12 +146,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "data_connection_checker",
-      "rootUri": "file:///home/wallece/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/data_connection_checker-0.3.4",
-      "packageUri": "lib/",
-      "languageVersion": "2.2"
-    },
-    {
       "name": "equatable",
       "rootUri": "file:///home/wallece/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/equatable-2.0.5",
       "packageUri": "lib/",
@@ -252,6 +246,12 @@
       "rootUri": "file:///home/wallece/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "internet_connection_checker",
+      "rootUri": "file:///home/wallece/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/internet_connection_checker-1.0.0+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
     },
     {
       "name": "io",
@@ -560,7 +560,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2022-09-22T19:15:45.974487Z",
+  "generated": "2022-09-22T20:04:25.353311Z",
   "generator": "pub",
   "generatorVersion": "2.18.1"
 }
