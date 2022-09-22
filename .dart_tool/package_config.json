@@ -116,30 +116,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "connectivity",
-      "rootUri": "file:///home/wallece/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity-3.0.6",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "connectivity_for_web",
-      "rootUri": "file:///home/wallece/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_for_web-0.4.0+1",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "connectivity_macos",
-      "rootUri": "file:///home/wallece/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_macos-0.2.1+2",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "connectivity_platform_interface",
-      "rootUri": "file:///home/wallece/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_platform_interface-2.0.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "convert",
       "rootUri": "file:///home/wallece/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/convert-3.0.2",
       "packageUri": "lib/",
@@ -168,6 +144,12 @@
       "rootUri": "file:///home/wallece/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/dartz-0.10.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "data_connection_checker",
+      "rootUri": "file:///home/wallece/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/data_connection_checker-0.3.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
     },
     {
       "name": "equatable",
@@ -578,7 +560,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2022-09-20T20:54:42.935478Z",
+  "generated": "2022-09-22T19:15:45.974487Z",
   "generator": "pub",
   "generatorVersion": "2.18.1"
 }
