@@ -1,3 +1,5 @@
+// ignore_for_file: prefer_const_constructors
+
 import 'package:dartz/dartz.dart';
 import 'package:number_trivia/core/error/failures.dart';
 
@@ -17,7 +19,5 @@ class InputConverter {
 
 class InvalidInputFailure extends Failure {
   @override
-  // TODO: implement props
-
   List<Object> get props => [];
 }
