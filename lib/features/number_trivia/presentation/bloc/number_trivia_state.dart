@@ -14,9 +14,9 @@ class Empty extends NumberTriviaState {}
 class Loading extends NumberTriviaState {}
 
 class Loaded extends NumberTriviaState {
-  final NumberTrivia trivia;
+  final NumberTrivia numberTrivia;
 
-  Loaded({required this.trivia});
+  Loaded({required this.numberTrivia});
 }
 
 class Error extends NumberTriviaState {
