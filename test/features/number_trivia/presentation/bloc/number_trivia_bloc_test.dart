@@ -19,7 +19,7 @@ void main() {
   late MockGetRandomNumberTrivia mockGetRandomNumberTrivia;
   late MockInputConverter mockInputConverter;
 
-  setUp() {
+  setUp(() {
     mockGetConcreteNumberTrivia = MockGetConcreteNumberTrivia();
     mockGetRandomNumberTrivia = MockGetRandomNumberTrivia();
     mockInputConverter = MockInputConverter();
@@ -28,7 +28,7 @@ void main() {
       getRandomNumberTrivia: mockGetRandomNumberTrivia,
       inputConverter: mockInputConverter,
     );
-  }
+  });
 
   test('initialState should be Empty', () {
     expect(bloc.initialState, equals(Empty()));
