@@ -19,12 +19,11 @@
   O projeto foi baseado na playlist de vídeos do [ResoCoder](https://www.youtube.com/watch?v=KjE2IDphA_U&list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech&ab_channel=ResoCoder)
 </p>
 
-
-
-
 # :camera: Screenshots
 <div align="center">
-   <img src="" width="230"/>
+   <img src="readme/images/imagem1.png" width="250"/>
+   <img src="readme/images/imagem2.png" width="250"/>
+   <img src="readme/images/imagem3.png" width="250"/>
 </div>
 
 
