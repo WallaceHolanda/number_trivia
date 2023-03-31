@@ -7,17 +7,18 @@
 </p>
 
 
-# :iphone: Sobre o Projeto
+# :iphone: About the Project
 
 <p>
-  Este Aplicativo permite a visualização de curiosidades sobre os números (number trivia)
+  This application allows the visualization of number trivia.
   
-  A partir do desenvolvimento do App foi possível treinar a utilização de Clear Architecture e TDD
+  Through the development of the app, it was possible to practice the use of Clean Architecture and TDD.
   
-  A arquitetura segue o padrão de divisão de camadas em Data, Domain e Presentation
+  The architecture follows the pattern of dividing layers into Data, Domain, and Presentation.
   
-  O projeto foi baseado na playlist de vídeos do [ResoCoder](https://www.youtube.com/watch?v=KjE2IDphA_U&list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech&ab_channel=ResoCoder)
+  The project was based on the video playlist by [ResoCoder](https://www.youtube.com/watch?v=KjE2IDphA_U&list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech&ab_channel=ResoCoder).
 </p>
+
 
 # :camera: Screenshots
 <div align="center">
@@ -27,7 +28,7 @@
 </div>
 
 
-# :rocket: Tecnologias
+## :rocket: Technologies
 
 - [Flutter](https://flutter.dev/)
 - [Dart](https://pub.dev/)
@@ -36,7 +37,7 @@
 - [Github](https://github.com)
 
 
-# :computer: Como rodar
+## :computer: How to run
 
 ```bash
 # Clone Repositorio
