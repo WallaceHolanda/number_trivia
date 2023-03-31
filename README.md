@@ -50,9 +50,8 @@ $ flutter pub get
 $ flutter run
 ```
 
+## :page_facing_up: Licence
 
-# :page_facing_up: Licença
+This project is under the [MIT License](./LICENSE)
 
-Este projeto está sob a [MIT License](./LICENSE)
-
-Feito por Wallace Holanda
+Made by Wallace Holanda.
